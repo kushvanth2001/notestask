@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005535174877",
+    "project_id": "notestask-baafd",
+    "storage_bucket": "notestask-baafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005535174877:android:e4fc87884f6eaa654dfb34",
+        "android_client_info": {
+          "package_name": "com.example.notes_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005535174877-rtffd8tu7ad36f3i27gahmki1stbhmkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwSuHrLHeZmaH-6wa11IO-4g2KyJqs2Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005535174877-rtffd8tu7ad36f3i27gahmki1stbhmkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
